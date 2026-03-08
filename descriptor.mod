@@ -4,5 +4,5 @@ tags={
 	"Decisions"
 	"Events"
 }
-name="Education Tweaks"
+name="Zara's Education Tweaks"
 supported_version="1.18.2"
