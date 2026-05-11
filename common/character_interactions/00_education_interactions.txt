@@ -327,13 +327,13 @@ educate_child_interaction = {
 				OR = {
 					any_courtier = {
 						is_adult = yes
-						num_of_relation_ward < 2
+						num_of_relation_ward < zz_valyria_max_wards
 						is_imprisoned = no
 						NOT = { has_trait = incapable }
 					}
 					AND = {
 						is_adult = yes
-						num_of_relation_ward < 2
+						num_of_relation_ward < zz_valyria_max_wards
 						is_imprisoned = no
 						NOT = { has_trait = incapable }
 					}
