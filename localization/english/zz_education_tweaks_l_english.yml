@@ -1,0 +1,9 @@
+﻿l_english:
+ action_child_education_personality: "@child_icon! $influence_child_personality_interaction$"
+ action_child_education_personality_label: "@child_icon! $influence_child_personality_interaction$"
+ action_child_education_personality_click: "#I Click to influence your ward's personality#!"
+ action_child_education_personality_desc: "You can influence the personality of one of your [wards|E]."
+ action_child_education_commander: "@child_icon! $influence_child_commander_interaction$"
+ action_child_education_commander_label: "@child_icon! $influence_child_commander_interaction$"
+ action_child_education_commander_click: "#I Click to train your ward as a commander#!"
+ action_child_education_commander_desc: "You can train one of your [wards|E] to become a commander."

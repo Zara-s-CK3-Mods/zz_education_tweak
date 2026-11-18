@@ -5,4 +5,4 @@ tags={
 	"Events"
 }
 name="Zara's Education Tweaks"
-supported_version="1.18.2"
+supported_version="1.21.0"
